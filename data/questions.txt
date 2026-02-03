@@ -1,0 +1,17 @@
+ 1. Name the algorithm which tends to minimize the process flow time.
+   - Shortest Job First
+
+2. Identify the set of necessary conditions that causes a ‘deadlock’ in an operating system.
+   - Mutual Exclusion, no pre-emption, hold and wait, circular wait
+
+3. What is an Address Binding?
+   - a mapping from one address space to another
+
+4. Name the parameter which time taken to move the disk arm to the desired cylinder.
+   - seek time
+
+5. Which one allows both parent and child processes to initialize the same pages in memory?
+   - Copy-on-Write
+
+6. When a process is in thrashing?
+   - it spends a lot of time paging than executing
