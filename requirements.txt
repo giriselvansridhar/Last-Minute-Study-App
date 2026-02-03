@@ -1,3 +1,5 @@
 streamlit
 pillow
-
+pytesseract 
+pdf2image 
+opencv-python

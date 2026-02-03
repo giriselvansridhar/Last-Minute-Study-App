@@ -1,0 +1,77 @@
+a A
+
+ANSWER ALL THE QUESTIONS
+
+Questions
+
+Marks
+
+Name the algorithm which tends to minimize the process flow
+time.
+a) First come First served b) Shortest Job First
+
+c) Earliest Deadlin First d) Longest Job First
+
+Which among the following is helpful in CPU scheduling
+decisions?
+
+a) When a process switches from the waiting state to the
+running state
+
+b)When a process switches from the ready state to the running
+state
+
+c)When a process switches from the waiting state to the ready
+state
+
+d)When a process begins
+
+BT2
+
+Identify the set of necessary conditions that causes a ‘deadlock’
+in an operating system.
+
+8) Blocking send, race condition, hold and wait, RAM
+workflow
+
+b) Blocking send, race condition, cache incoherency, RAM
+workflow an
+
+c) Mutual Exclusion, no pre-emption, hold and wait, circular
+wait
+
+d)Mutual Exclusion, race condition, cache incoherency, circular
+wait
+
+BT!
+
+What is an Address Binding?
+
+8) going to an address in memory
+
+b) locating an address with the help of another address
+
+¢) binding two addresses together to form a new address in a
+different memory space
+
+d) a mapping from one address space to another
+
+Lt
+
+Name the parameter which time taken to move the disk arm to the
+5 desired cylinder.
+a) positioning time b) random access time
+
+¢c) seek tine d) rotational fatenc:
+Which one allows both parent and child processes to initia sare
+6 the same pages in memory?
+
+a) Copy-on-Write b) read on write
+
+¢) write and share _d) copy on read
+
+‘When a process is in thrashing?
+
+7 a) it spends a lot of time executing, rather than Paging
+b) it spends a lot of time paging than executing
+
